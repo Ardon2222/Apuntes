@@ -3,6 +3,8 @@ import java.util.*;
 public class Ej7 {
     public static void main(String[] args) {
 
+        Esto es una prueba de conflicto, borrar para usar el codigo
+
         Scanner entrada = new Scanner(System.in);
         Random rand = new Random();
 
