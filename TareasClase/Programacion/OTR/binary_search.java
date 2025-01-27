@@ -3,8 +3,6 @@ import java.util.*;
 public class binari_search {
     public static void main(String[] args) {
 
-        Esto es una prueba de conflicto, borrar para usar el codigo
-
         Random rand = new Random();
         
         // Generamos un numero random
